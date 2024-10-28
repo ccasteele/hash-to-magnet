@@ -10,5 +10,5 @@ A webpage that converts torrent hashes into magnet links. It supports both singl
 - **Copy Functionality:** Allows users to copy all generated magnet links to the clipboard.
 
 ## To-do
-- **Implement hash regex matching, Currently, it only matches a hash if it matches 40 characters.
-- **Real-debrid integration.
+- Implement hash regex matching, Currently, it only matches a hash if it matches 40 characters.
+- Real-debrid integration.
