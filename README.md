@@ -8,3 +8,7 @@ A webpage that converts torrent hashes into magnet links. It supports both singl
 - **Multiple Mode:** Convert multiple torrent hashes (one per line) to magnet links.
 - **Error Handling:** Displays error messages for invalid hashes.
 - **Copy Functionality:** Allows users to copy all generated magnet links to the clipboard.
+
+## To-do
+- **Implement hash regex matching, Currently, it only matches a hash if it matches 40 characters.
+- **Real-debrid integration.
